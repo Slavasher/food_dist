@@ -3,3 +3,4 @@
 3) ![img_1.png](img_1.png)
 4) ![img_2.png](img_2.png)
 5) ![img_3.png](img_3.png)
+6) ![img_4.png](img_4.png) таймер обратного отсчета на сайте
